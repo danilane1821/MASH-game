@@ -2,7 +2,8 @@
 body {
   background: #33FFE3;
   color: #C447FE;
-  background-image: url("images/dot.png")
+  background-image: url("images/dot.png");
+  background-repeat: repeat-x;
   font-family: Helvetica, Arial;
   font-size: 27px;
   font-weight: 300;
